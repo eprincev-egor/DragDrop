@@ -1,0 +1,16 @@
+{
+    "esversion": 7,
+    "strict": "global",
+    "browser": true,
+    "futurehostile": true,
+    "globals": {
+        "require": true,
+        "__dirname": true,
+        "console": true,
+        "module": true,
+        "exports": true,
+        "jquery": true,
+        "$": true,
+        "ActiveXObject": true
+    }
+}
