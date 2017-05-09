@@ -254,7 +254,7 @@ import "plugin-hasChild";
         }
         
         // перетаскивание активно?
-        hadDrag() {
+        hasDrag() {
             return this._activeElems.length > 0;
         }
     }
